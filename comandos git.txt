@@ -1,0 +1,10 @@
+
+git clone  "enlace"-- Descargar repositorio
+
+git status -- Ver cambios realizados en repositorio (en la carpeta especificada)
+
+git add . (el punto es para añadir todo, especificar archivos sueltos) añadir
+ 
+git commit -m "Tutorial git" --author="jorgehm94 <zeroastro1@gmail.com>"
+
+git push subir cambios -- Pide nombre y usuario github
